@@ -7,7 +7,7 @@ The inspiration for the interface came from CAFET (Computer-Assisted Fluency Est
 
 The program tracks your breathing and, towards the top of your inhale, adds two bars signifying when you should "turn your voice on." This helps users practice prevoice exhalation, a method where you let out a small amount of exhale before talking in order to feel a relaxed and open vocal tract. An example of these two lines can be seen below. Features such as voice tracking, feedback metrics, and an interface will be added soon. 
 
-ADD PIC
+![alt text](https://github.com/beauhodes/spTrainer/blob/main/prevoiceExample.jpg?raw=true)
 
 ## Versions
 #### V1
