@@ -24,4 +24,4 @@ Version 3 will add voice tracking. A continuous black bar will appear at the bot
 Ensure that both your Vernier Respiratory Belt and Insignia microphone are plugged in and turned on.
 
 #### Running the Program
-Todo
+Run 'python3 v1.py'
